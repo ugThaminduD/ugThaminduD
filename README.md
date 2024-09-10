@@ -1,4 +1,4 @@
-                                ## Hi there👋, I'm UG Thamindu Dilhara
+##                                                                                         Hi there👋, I'm UG Thamindu Dilhara
 
 <!--
 **ugThaminduD/ugThaminduD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
