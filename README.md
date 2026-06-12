@@ -1,15 +1,24 @@
-## Hi there👋, I'm UG Thamindu Dilhara
+# Hi there 👋, I'm UG Thamindu Dilhara
 
-<!--
-**ugThaminduD/ugThaminduD** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+I’m a Software Engineering student at SLIIT with an interest in building practical software solutions and continuously improving my development skills.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Undergraduate in Software Engineering at SLIIT
+- 🌱 Currently learning and growing through hands-on projects
+- 🤝 Open to collaborating on interesting software projects
+- 💡 Interested in problem-solving, clean code, and modern development practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Software Engineering in SLIIT
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Skills
+- **Languages:** Java, Python, JavaScript, C++
+- **Web:** HTML, CSS, React
+- **Tools:** Git, GitHub, VS Code
+- **Database:** MySQL, MongoDB
+
+## 📌 Featured Projects
+- Portfolio projects coming soon.
+
+## 📫 Connect With Me
+- GitHub: [@ugThaminduD](https://github.com/ugThaminduD)
+
+---
+_Thanks for visiting my profile!_
