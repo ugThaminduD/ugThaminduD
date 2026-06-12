@@ -19,7 +19,6 @@ I’m a Software Engineering student at SLIIT with an interest in building pract
 
 ## 📫 Connect With Me
 - GitHub: [@ugThaminduD](https://github.com/ugThaminduD)
-- Email: Available on request
 
 ---
 _Thanks for visiting my profile!_
