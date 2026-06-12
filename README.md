@@ -15,13 +15,11 @@ I’m a Software Engineering student at SLIIT with an interest in building pract
 - **Database:** MySQL, MongoDB
 
 ## 📌 Featured Projects
-- Add your best project here with a short one-line description.
-- Add your second project here with a short one-line description.
-- Add your third project here with a short one-line description.
+- Portfolio projects coming soon.
 
 ## 📫 Connect With Me
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your email]
+- GitHub: [@ugThaminduD](https://github.com/ugThaminduD)
+- Email: Available on request
 
 ---
 _Thanks for visiting my profile!_
