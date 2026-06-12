@@ -1,36 +1,36 @@
 # Hi there 👋, I'm UG Thamindu Dilhara
 
 I'm a Software Engineering student at SLIIT with an interest in building practical software solutions and continuously improving my development skills.
-
-## 🚀 About Me
-- 🎓 Undergraduate in Software Engineering at SLIIT
+- 🎓 Undergraduate in Software Engineering at Sri Lanka Institute of Information Technology (SLIIT)
 - 🌱 Currently learning and growing through hands-on projects
 - 🤝 Open to collaborating on interesting software projects
 - 💡 Interested in problem-solving, clean code, and modern development practices
-- 🔍 Passionate about full-stack development and AI-driven solutions
+- 🔍 Passionate about full-stack development, microservice DevOps and AI-driven solutions
 
 ## 🛠️ Skills
 
 ### Languages
-- **Languages:** Java, Python, JavaScript, C, C++, Kotlin, PHP
-- **Web:** HTML, CSS, React, Node.js, Express.js
+- Java, Python, JavaScript, TypeScript, C, C++, Kotlin, PHP, HTML, CSS
 
 ### Frontend & UI
 - React.js
 - HTML5 & CSS3
 - Responsive Design
-- Material UI
+- Figma UI Design
 
-### Backend & Databases
-- **Database:** MySQL, MongoDB, Firebase
-- Node.js
-- Express.js
+### Backend
+- Node.js, Express.js
+- Spring Boot
 - REST APIs
+- Microservice Architecture
+
+### Databases
+- MySQL, MongoDB, Firebase
 
 ### Mobile Development
-- Android Studio
-- Kotlin
-- Java
+- Android Studio - Kotlin, Java
+- Cross-Platfrom Applications - Flutter
+
 
 ### Tools & Technologies
 - **Version Control:** Git, GitHub
@@ -38,12 +38,9 @@ I'm a Software Engineering student at SLIIT with an interest in building practic
 - **Frameworks & Stacks:** MERN Stack (MongoDB, Express, React, Node.js)
 - **Cloud & Hosting:** Firebase, Vercel, Hugging Face
 - **ML/AI:** Machine Learning APIs, Python, TensorFlow basics
+- **Cloud Computing:** Microsoft Azure
 - **Other Tools:** Docker basics, RESTful APIs, Postman
 
-## 📌 Featured Projects
-- **VoiceBridge** - AI-powered Android application for speech and language therapy
-- **Survey Data Collection System** - MERN stack-based data management system
-- Portfolio projects coming soon.
 
 ## 📫 Connect With Me
 - **GitHub:** [@ugThaminduD](https://github.com/ugThaminduD)
@@ -53,10 +50,10 @@ I'm a Software Engineering student at SLIIT with an interest in building practic
 - **Phone:** +94 77 510 6337
 - **Location:** Pannipitiya, Sri Lanka
 
+
 ## 🎓 Education
 - **Sri Lanka Institute of Information Technology (SLIIT)**
-  - BSc (Hons) in Information Technology - Software Engineering Specialization
-  - Expected Graduation: 2026
+  - BSc (Hons) in Information Technology - Software Engineering Specialization [2022-2026]
 
 ---
 _Thanks for visiting my profile! Feel free to reach out for collaboration or opportunities._
